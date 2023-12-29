@@ -15,5 +15,43 @@
 	display: flex;
 	flex-direction: row;
 }
+span {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: right;
+}
+a, #p1 {
+	color: #E5E7EB;
+	font-size: 18px;
+}
 
+.header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
 
+#header {
+	display: block;
+}
+
+#main {
+	height: auto;
+	width: 35%;
+}
+
+#H1 {
+	font-weight: bold;
+	font-size: 48px;
+	color: #F9FAF8;
+}
+
+img {
+	width: 20%;
+	height: auto;
+}
+
+button {
+	background-color: #3882F6;
+}
