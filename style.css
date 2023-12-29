@@ -57,3 +57,19 @@ img {
 button {
 	background-color: #3882F6;
 }
+
+#S2 {
+	display: flex;
+	justify-content: space-around;
+	height: 30%;
+	width; 100%;
+}
+
+#S2->div {
+	width: 100px;
+	flex: 1 1 auto;
+}
+
+#H2 {
+	text-align: center;
+}
