@@ -1,0 +1,19 @@
+#logo {
+	border-radius: 20px;
+	width: 40px;
+	height: 40px;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	background-color: #1F2937;
+}
+
+.logo {
+	display: flex;
+	flex-direction: row;
+}
+
+
