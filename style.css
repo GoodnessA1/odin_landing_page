@@ -8,7 +8,7 @@
 	display: flex;
 	flex-direction: column;
 	width: 100%;
-	height: 25%;
+	height: 30%;
 	background-color: #1F2937;
 }
 
@@ -66,10 +66,17 @@ button {
 }
 
 #S2->div {
-	width: 100px;
-	flex: 1 1 auto;
+	width: 120px;
+	flex: 1 1 0;
 }
 
 #H2 {
 	text-align: center;
+}
+
+#D1->img {
+	width: 120px;
+	height: 250px;
+	margin-left: auto;
+	margin-right: auto;
 }
